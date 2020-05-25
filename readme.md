@@ -4,7 +4,15 @@ Tools
 - Terminal
 
 Resources
-- Mozilla developer network
+- Mozilla developer network https://developer.mozilla.org/en-US/docs/Learn
+   - Read through
+      - [ ] HTML
+      - [ ] CSS
+      - [ ] Javascript
+      - [ ] Webforms
+      - [ ] Accesibility
+      - [ ] Tools and testing
+      - [ ] Server side programming
 - Bootstrap
 - Unsplash
 - Github
@@ -21,7 +29,6 @@ Resources
 
  Tips
  - Emmet
- - Font
  - Color scheme
     - Rainglow extension
 
